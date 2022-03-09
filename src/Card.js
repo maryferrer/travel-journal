@@ -13,8 +13,8 @@ function Card(props) {
                 <h1 className="card--location">{props.item.location}</h1>
                 <h2 className="card--date">{props.item.date}</h2>
                 <p className="card--description">{props.item.description}</p>
-                <p className="card--favepart">Favorite part: {props.item.favePart}</p>
-                <p className="card--favefood">Favorite food: {props.item.faveFood}</p>
+                <p className="card--favepart"><div className="strong">Favorite part:</div> {props.item.favePart}</p>
+                <p className="card--favefood"><div className="strong">Favorite food:</div> {props.item.faveFood}</p>
             </section>
     </article>
     )
