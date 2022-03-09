@@ -1,7 +1,7 @@
 const array = [
     {
         id: 1,
-        img: "mt-hood-meadows.jpg",
+        img: "/tavel-journal/mt-hood-meadows.jpg",
         alt: "Chris and Xena in front of a river",
         country: "USA",
         maps: "https://g.page/hoodmeadows?share",
@@ -13,7 +13,7 @@ const array = [
     },
     {
         id: 2,
-        img: "winter-park.jpg",
+        img: "/tavel-journal/winter-park.jpg",
         alt: "Snowboarding",
         country: "USA",
         maps: "https://goo.gl/maps/U2SPLyBHiX86rERQ6",
@@ -25,7 +25,7 @@ const array = [
     },
     {
         id: 3,
-        img: "outsidelands.jpg",
+        img: "/tavel-journal/outsidelands.jpg",
         alt: "Outside Lands festival sign",
         country: "USA",
         maps: "https://goo.gl/maps/y26M3Eh6y93wMXhr8",
@@ -37,7 +37,7 @@ const array = [
     },
     {
         id: 4,
-        img: "backpacking-half-dome.jpg",
+        img: "/tavel-journal/backpacking-half-dome.jpg",
         alt: "Mary Ferrer in front of Half Dome",
         country: "USA",
         maps: "https://goo.gl/maps/E6BpZvQRrq9yADe16",
@@ -49,7 +49,7 @@ const array = [
     },
     {
         id: 5,
-        img: "park-guell.jpg",
+        img: "/tavel-journal/park-guell.jpg",
         alt: "Park Guell",
         country: "Spain",
         maps: "https://goo.gl/maps/Ag3cwJV1YxqFUYKF6",
@@ -61,7 +61,7 @@ const array = [
     },
     {
         id: 6,
-        img: "Amsterdam-boat.jpg",
+        img: "/tavel-journal/Amsterdam-boat.jpg",
         alt: "Mary Ferrer on a boat in Amsterdam",
         country: "Netherlands",
         maps: "https://goo.gl/maps/H5T8iSZyjafFDBeg6",
@@ -73,7 +73,7 @@ const array = [
     },
     {
         id: 7,
-        img: "eiffel.jpg",
+        img: "/tavel-journal/eiffel.jpg",
         alt: "Top of the Eiffel Tower",
         country: "France",
         maps: "https://goo.gl/maps/9j3C5LxHz3iEz7At8",
