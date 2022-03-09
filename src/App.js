@@ -1,6 +1,7 @@
 import Header from './Header';
 import Card from './Card';
 import array from './Data';
+import Footer from './Footer'
 
 function App() {
   const cards = array.map((item) => {
@@ -15,7 +16,8 @@ function App() {
   return (
     <div>
       <Header />,
-      {cards}
+      {cards},
+      <Footer />
     </div>
   )
 }
